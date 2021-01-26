@@ -1,0 +1,8 @@
+<application>
+  <component name="BatteryStatusSettings">
+    <option name="batteryRefreshIntervalInMs" value="90000" />
+    <option name="macosBatteryCommand" value="pmset -g batt" />
+    <option name="macosPreferScriptShowBattPercent" value="false" />
+    <option name="iconsSet" value="0" />
+  </component>
+</application>
