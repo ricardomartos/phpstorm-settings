@@ -1,8 +1,6 @@
 <application>
   <component name="BatteryStatusSettings">
     <option name="batteryRefreshIntervalInMs" value="90000" />
-    <option name="windowsBatteryFields" value="LifePercent,AC,LifeTime" />
-    <option name="linuxBatteryCommand" value="acpi -b" />
     <option name="macosBatteryCommand" value="pmset -g batt" />
     <option name="macosPreferScriptShowBattPercent" value="false" />
     <option name="iconsSet" value="0" />
