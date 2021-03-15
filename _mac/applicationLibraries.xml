@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery.lazyload" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.lazyload_1.9.1_jquery.lazyload.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.lazyload_1.9.1_jquery.lazyload.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
