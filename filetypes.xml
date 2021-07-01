@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
