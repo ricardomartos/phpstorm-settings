@@ -4,17 +4,17 @@
       <interpreter id="60078f0b-05fc-41b2-a2b5-5a77cfdab212" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="72f18b73-30b6-46d9-a240-c49dac5616b6" name="PHP" home="/usr/local/Cellar/php/8.0.2_1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="64e1357d-f1aa-48d9-940d-568f0354085c" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.14_1/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="52ee33a5-4c17-433b-9f9c-87125f97c381" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.30/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="52ee33a5-4c17-433b-9f9c-87125f97c381" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.32/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.30/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.30/bin/php" path_separator=":" version="7.3.30">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.32/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.32/bin/php" path_separator=":" version="7.3.32">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/error_log.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.30/share/php@7.3/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.32/share/php@7.3/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.9.8">
